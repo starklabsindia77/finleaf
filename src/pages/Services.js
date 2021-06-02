@@ -40,7 +40,7 @@ function Services() {
                     <h6>
                       <Link to={`/services/${value.slug}`}>{value.title}</Link>
                     </h6>
-                    <div className="text">{value.text}</div>
+                    <div className="text line-clamp-2">{value.text}</div>
                   </div>
                 </div>
               );
