@@ -69,7 +69,8 @@ const servicesData = [
     slug: "ipr",
     icon: "flaticon-house ",
     text: " We endows all the top-notch services related to trademark, copyright, and patent. Before talking about what Intellectual Property Law firms in Delhi or IPR Law firms in Delhi are, we should first have an understanding of Intellectual Properties (IPs) and Intellectual Property Rights (IPRs). IPs refer to the creation of the human mind which includes inventions, new ideas, innovations, artistic and literary work, industrial design, logos, brand names, marks, etc. IPRs refer to right given for use of created IPs. The rights for the created IPs are given by the Government to the creator for use of his or her creation for a certain period. IPRs provide control to the creator over the created IPs.",
-    description: "",
+    description:
+      "We endows all the top-notch services related to trademark, copyright, and patent. Before talking about what Intellectual Property Law firms in Delhi or IPR Law firms in Delhi are, we should first have an understanding of Intellectual Properties (IPs) and Intellectual Property Rights (IPRs). IPs refer to the creation of the human mind which includes inventions, new ideas, innovations, artistic and literary work, industrial design, logos, brand names, marks, etc. IPRs refer to right given for use of created IPs. The rights for the created IPs are given by the Government to the creator for use of his or her creation for a certain period. IPRs provide control to the creator over the created IPs.",
     second_description: "",
     subServices: [
       {
@@ -101,7 +102,8 @@ const servicesData = [
     slug: "llp",
     icon: "flaticon-target",
     text: "Business can be setup in India in three types like Formation of liaison office , Formation of Project office and Formation of Branch office",
-    description: "",
+    description:
+      "We provide all the service that a Limited Liability Partnership (LLP) requires. Our accountants take care of services for LLP companies like Name Reservation, LLP Agreement Drafting, Annual Filing, Induction of New Partners & the modifications.",
     second_description: "",
     subServices: [
       {
@@ -145,7 +147,8 @@ const servicesData = [
     slug: "taxation",
     icon: "flaticon-budget-1",
     text: "Direct tax consultancy together with innovative tax efficient strategies, provided by us form an integral part of viable business decisions. These help our clients attain the desired goals.",
-    description: "",
+    description:
+      "We promise to guide you for all your taxation essentials with highly experienced & seasoned tax consultants having in-depth knowledge of Indian and international tax laws. As a chartered accountancy firm, we aim at guiding you throughout your tax compliances. Taxation is a specialized area and requires great skill and accuracy. Our experts have the requisite knowledge to carry out tax planning, administration, documentation and representation.",
     second_description: "",
     subServices: [
       {
@@ -183,7 +186,8 @@ const servicesData = [
     slug: "registration",
     icon: "flaticon-target ",
     text: " We are the leading service provider around the globe for Start-up Registration, RERA Registration, SSI/MSME Registration, Importer Exporter Code (IEC), Drug License, and Liquor License. We have presence in the sector of taxation, accounting, and law since last 50 years.",
-    description: "",
+    description:
+      "Private Limited Company is the most prevalent and popular type of corporate legal entity in India. Private limited company registration is governed by the Ministry of Corporate Affairs, Companies Act, 2013 and the Companies Incorporation Rules, 2014. To register a private limited company, a minimum of two shareholders and two directors are required. A natural person can be both a director and shareholder, while a corporate legal entity can only be a shareholder. Further, foreign nationals, foreign corporate entities or NRIs are allowed to be Directors and/or Shareholders of a Company with Foreign Direct Investment, making it the preferred choice of entity for foreign promoters. Unique features of a private limited company like limited liability protection to shareholders, ability to raise equity funds, separate legal entity status and perpetual existence make it the most recommended type of business entity for millions of small and medium sized businesses that are family owned or professionally managed.We are the market leader for services relating to company registration in India. We can help you register a private limited company, one person company, producer company or Indian subsidiary. The average time taken to complete company formation is about 10 – 15 working days, subject to government processing time and client document submission. Get a free consultation for private limited company registration and business startup by scheduling an appointment with us.",
     second_description: "",
     subServices: [
       {
@@ -203,7 +207,8 @@ const servicesData = [
     slug: "documentation",
     icon: "flaticon-analysis-1",
     text: " We assist in drafting all the documents that companies require such as HIRING DOCUMENTS, INVESTMENT SUPPORT, WEB OR APP-RELATED, LEGAL NOTICE & DEEDS, etc. ",
-    description: "",
+    description:
+      "We assist in drafting all the documents that companies require such as HIRING DOCUMENTS, INVESTMENT SUPPORT, WEB OR APP-RELATED, LEGAL NOTICE & DEEDS, etc. Single documents drafting services is ideal if you only require specific legal documents to be drafted. The benefit of this service that you can get the documents as and when required, although it will be costly as compared with other two-engagement levels, However, to keep our drafting services flexible we have given all options for a new start-up. The comprehensive documents decided by us will be final if an entity wants any further documents to be drafted either it will be swapped with any other documents or will be charged separately.",
     second_description: "",
     subServices: [
       {

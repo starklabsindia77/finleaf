@@ -31,39 +31,11 @@ function ServicesSingle(props) {
             <div className="content-side col-lg-8 col-md-12 col-sm-12">
               <div className="services-single">
                 <h4>{singleService.title}</h4>
-                <div className="text">
-                  <p>
-                    There are many variations of passages of Lorem Ipsum
-                    available, but the majority have suffered altera tion in
-                    some form, by injected humour, or randomised words which
-                    don't look even slightly believable. If you are going to use
-                    a passage of Lorem Ipsum, you need to be sure there isn't
-                    anything embarrassing hidden.
-                  </p>
-                  <p>
-                    All the Lorem Ipsum generators on the Internet tend to
-                    repeat predefined chunks as necessary, making this the first
-                    true generator on the Internet.
-                  </p>
-                </div>
+                <div className="text">{singleService.description}</div>
 
                 <SubService data={singleService.subServices} />
 
-                <div className="text">
-                  <p>
-                    There are many variations of passages of Lorem Ipsum
-                    available, but the majority have suffered altera tion in
-                    some form, by injected humour, or randomised words which
-                    don't look even slightly believable. If you are going to use
-                    a passage of Lorem Ipsum, you need to be sure there isn't
-                    anything embarrassing hidden.
-                  </p>
-                  <p>
-                    All the Lorem Ipsum generators on the Internet tend to
-                    repeat predefined chunks as necessary, making this the first
-                    true generator on the Internet.
-                  </p>
-                </div>
+                <div className="text">{singleService.second_description}</div>
                 <div className="more-services">
                   <div className="clearfix">
                     <div className="pull-left">
