@@ -13,6 +13,16 @@
   }
 }
 
+.alice-carousel__dots {
+  display: none;
+}
+.alice-carousel__next-btn-item {
+  display: none;
+}
+.alice-carousel__prev-btn-item {
+  display: none;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
