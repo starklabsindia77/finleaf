@@ -32,9 +32,7 @@ function ServicesSingle(props) {
               <div className="services-single">
                 <h4>{singleService.title}</h4>
                 <div className="text">{singleService.description}</div>
-
                 <SubService data={singleService.subServices} />
-
                 <div className="text">{singleService.second_description}</div>
                 <div className="more-services">
                   <div className="clearfix">
