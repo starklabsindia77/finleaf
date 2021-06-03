@@ -17,7 +17,7 @@ function Footer2() {
                     <div className="logo">
                       <Link href="/">
                         <img
-                          src="/assets/images/myimages/finleaf_logo02.png"
+                          src="/assets/images/myimages/finleaf_logo.png"
                           alt=""
                           style={{ height: "100px", marginLeft: "-15px" }}
                         />

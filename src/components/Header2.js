@@ -33,7 +33,7 @@ function Header2({ pageName }) {
               <div className="logo">
                 <Link to="/">
                   <img
-                    src="/assets/images/myimages/finleaf_logo02.png"
+                    src="/assets/images/myimages/finleaf_logo.png"
                     alt=""
                     title=""
                     style={{
@@ -255,7 +255,7 @@ function Header2({ pageName }) {
           <div className="logo pull-left">
             <Link to="/" className="img-responsive">
               <img
-                src="/assets/images/myimages/finleaf_logo02.png"
+                src="/assets/images/myimages/finleaf_logo.png"
                 alt=""
                 title=""
                 style={{
