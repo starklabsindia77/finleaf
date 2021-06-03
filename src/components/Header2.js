@@ -14,7 +14,7 @@ function Header2({ pageName }) {
                 </li>
                 <li>
                   <i className="fa fa-phone"></i>
-                  +91 8766224590 / +91 8505949827
+                  +91 8766224590
                 </li>
                 {/*  <li>
                   <i className="fa fa-map-marker"></i>

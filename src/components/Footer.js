@@ -29,7 +29,7 @@ function Footer() {
                     <ul className="list-style-two">
                       <li>
                         <span className="icon fa fa-phone"></span> +91
-                        8766224590 / +91 8505949827
+                        8766224590
                       </li>
                       <li>
                         <span className="icon fa fa-envelope"></span>{" "}
