@@ -47,8 +47,7 @@ function Contact() {
                       Uttar Pradesh
                     </li>
                     <li>
-                      <span className="icon fa fa-fax"></span>+91 8766224590 /
-                      +91 8505949827
+                      <span className="icon fa fa-fax"></span>+91 8766224590
                     </li>
                     <li>
                       <span className="icon fa fa-envelope-o"></span>

@@ -21,15 +21,18 @@ function Testimonial() {
                 <div className="quote-icon flaticon-double-quotes"></div>
                 <div className="image-outer">
                   <div className="image">
-                    <img src="assets/images/resource/author-6.jpg" alt="" />
+                    {/* <img src="assets/images/resource/author-6.jpg" alt="" /> */}
                   </div>
                 </div>
                 <div className="text">
-                  The argument in favor of using filler text goes something like
-                  this: If you use real content in the design process, anytime
-                  reach a review point you’ll end up reviewing and negotiating.
+                  Team FinLeaf and it's founder Ms Shelly Gupta is very
+                  responsive and professional in term of delivering the
+                  projects. We have taken few services in our company and found
+                  them very helpful and trustworthy. I recommend others to check
+                  FinLeaf for their compliances and i am sure your will feel
+                  happy.
                 </div>
-                <h5>Amber Lee</h5>
+                <h5>Suneel Kumar</h5>
                 <div className="designation">Co-founder</div>
               </div>
             </div>
@@ -40,15 +43,22 @@ function Testimonial() {
                 <div className="quote-icon flaticon-double-quotes"></div>
                 <div className="image-outer">
                   <div className="image">
-                    <img src="assets/images/resource/author-7.jpg" alt="" />
+                    {/* <img src="assets/images/resource/author-7.jpg" alt="" /> */}
                   </div>
                 </div>
                 <div className="text">
-                  The argument in favor of using filler text goes something like
-                  this: If you use real content in the design process, anytime
-                  reach a review point you’ll end up reviewing and negotiating.
+                  Shelly is truly a women with Ethics and professional values.
+                  During my Directorship, I have meet so many professionals but
+                  she is the only who deserves applause. She has helped to
+                  revive my company and easily handled all my NCLT Petitions
+                  single handily. She suggested me various techniques to easily
+                  handle my Companies. She has solutions for each of my queries.
+                  For each and every problem she says YES and explains it
+                  logically. I would give 100% to her updated knowledge and work
+                  ethics. All the best beta! God Bless You! Keep progressing
+                  always.
                 </div>
-                <h5>Watson Fitter</h5>
+                <h5>Ram Ahuja</h5>
                 <div className="designation">Co-founder</div>
               </div>
             </div>
@@ -59,7 +69,7 @@ function Testimonial() {
                 <div className="quote-icon flaticon-double-quotes"></div>
                 <div className="image-outer">
                   <div className="image">
-                    <img src="assets/images/resource/author-6.jpg" alt="" />
+                    {/* <img src="assets/images/resource/author-6.jpg" alt="" /> */}
                   </div>
                 </div>
                 <div className="text">
@@ -78,15 +88,17 @@ function Testimonial() {
                 <div className="quote-icon flaticon-double-quotes"></div>
                 <div className="image-outer">
                   <div className="image">
-                    <img src="assets/images/resource/author-7.jpg" alt="" />
+                    {/* <img src="assets/images/resource/author-7.jpg" alt="" /> */}
                   </div>
                 </div>
                 <div className="text">
-                  The argument in favor of using filler text goes something like
-                  this: If you use real content in the design process, anytime
-                  reach a review point you’ll end up reviewing and negotiating.
+                  Brilliant consultation and outstanding services both within
+                  the stipulated time frame is the speciality of this
+                  firm..wonderful experience.. well done .. great work guys...
+                  Keep it going.. I really like the services of these people...
+                  All the best.
                 </div>
-                <h5>Erbil Hook</h5>
+                <h5>Divya gupta</h5>
                 <div className="designation">Co-founder</div>
               </div>
             </div>
