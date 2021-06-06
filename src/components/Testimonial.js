@@ -19,11 +19,11 @@ function Testimonial() {
             <div className="testimonial-block-four">
               <div className="inner-box">
                 <div className="quote-icon flaticon-double-quotes"></div>
-                <div className="image-outer">
+                {/* <div className="image-outer">
                   <div className="image">
-                    {/* <img src="assets/images/resource/author-6.jpg" alt="" /> */}
+                    <img src="assets/images/resource/author-6.jpg" alt="" />
                   </div>
-                </div>
+                </div> */}
                 <div className="text">
                   Team FinLeaf and it's founder Ms Shelly Gupta is very
                   responsive and professional in term of delivering the
@@ -41,11 +41,11 @@ function Testimonial() {
             <div className="testimonial-block-four">
               <div className="inner-box">
                 <div className="quote-icon flaticon-double-quotes"></div>
-                <div className="image-outer">
+                {/* <div className="image-outer">
                   <div className="image">
-                    {/* <img src="assets/images/resource/author-7.jpg" alt="" /> */}
+                    <img src="assets/images/resource/author-7.jpg" alt="" />
                   </div>
-                </div>
+                </div> */}
                 <div className="text">
                   Shelly is truly a women with Ethics and professional values.
                   During my Directorship, I have meet so many professionals but
@@ -67,11 +67,11 @@ function Testimonial() {
             <div className="testimonial-block-four">
               <div className="inner-box">
                 <div className="quote-icon flaticon-double-quotes"></div>
-                <div className="image-outer">
+                {/* <div className="image-outer">
                   <div className="image">
-                    {/* <img src="assets/images/resource/author-6.jpg" alt="" /> */}
+                    <img src="assets/images/resource/author-6.jpg" alt="" />
                   </div>
-                </div>
+                </div> */}
                 <div className="text">
                   The argument in favor of using filler text goes something like
                   this: If you use real content in the design process, anytime
@@ -86,11 +86,11 @@ function Testimonial() {
             <div className="testimonial-block-four">
               <div className="inner-box">
                 <div className="quote-icon flaticon-double-quotes"></div>
-                <div className="image-outer">
+                {/* <div className="image-outer">
                   <div className="image">
-                    {/* <img src="assets/images/resource/author-7.jpg" alt="" /> */}
+                    <img src="assets/images/resource/author-7.jpg" alt="" />
                   </div>
-                </div>
+                </div> */}
                 <div className="text">
                   Brilliant consultation and outstanding services both within
                   the stipulated time frame is the speciality of this
