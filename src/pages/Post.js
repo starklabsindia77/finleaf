@@ -5,7 +5,6 @@ import Header2 from "../components/Header2";
 import PageTitle from "../components/PageTitle";
 
 import blogData from "../data/Blog";
-import ReactHtmlParser from "react-html-parser";
 
 function Post(props) {
   const [singleBlog, setSingleBlog] = useState([]);
@@ -54,7 +53,7 @@ function Post(props) {
                     </ul>
                     <h4>{singleBlog.title}</h4>
                     <div className="text">
-                      {ReactHtmlParser(singleBlog.Description)}
+                      {singleBlog.Description}
                       {/* <p>
                         The man, who is in a stable condition in hospital, has
                         "potentially life-changing injuries" after the overnight
