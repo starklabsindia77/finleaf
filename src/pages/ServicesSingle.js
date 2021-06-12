@@ -31,19 +31,9 @@ function ServicesSingle(props) {
             <div className="content-side col-lg-8 col-md-12 col-sm-12">
               <div className="services-single">
                 <h4>{singleService.title}</h4>
-                <div
-                  className="text"
-                  dangerouslySetInnerHTML={{
-                    __html: singleService.description,
-                  }}
-                ></div>
+                <div className="text">{singleService.description}</div>
                 <SubService data={singleService.subServices} />
-                <div
-                  className="text"
-                  dangerouslySetInnerHTML={{
-                    __html: singleService.second_description,
-                  }}
-                ></div>
+                <div className="text">{singleService.second_description}</div>
                 <div className="more-services">
                   <div className="clearfix">
                     <div className="pull-left">
