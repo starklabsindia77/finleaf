@@ -52,8 +52,12 @@ function Post(props) {
                       </li> */}
                     </ul>
                     <h4>{singleBlog.title}</h4>
-                    <div className="text">
-                      {singleBlog.Description}
+                    <div
+                      className="text"
+                      dangerouslySetInnerHTML={{
+                        __html: singleBlog.Description,
+                      }}
+                    >
                       {/* <p>
                         The man, who is in a stable condition in hospital, has
                         "potentially life-changing injuries" after the overnight
